@@ -1,0 +1,27 @@
+.App {
+  text-align: center;
+}
+
+.header {
+  border : 2px solid red;
+  background-color: brown;
+  color:white ;
+}
+.addcontact {
+  font-weight: 300;
+  margin-left: 12px;
+}
+.contacts{
+   display:flex;
+   justify-content: space-between;
+   border: 2px solid;
+   background: rgb(132, 165, 132);
+   margin-bottom: 12px;
+   margin-right: 5px;
+}
+.Contactsheader{
+  font-size:larger;
+  font-weight:bold;
+  margin-left:12px;
+  margin-top:20px;
+}
